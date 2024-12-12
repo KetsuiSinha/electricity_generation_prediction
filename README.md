@@ -81,14 +81,3 @@ Actual Electricity Demand from dataset: 4400.00 MW
 Difference: 100.00 MW
 ```
 
-## Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/energy-generation-prediction.git
-   cd energy-generation-prediction
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the script to preprocess data, train models, and generate predictions.
